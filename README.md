@@ -1,1 +1,1 @@
-# StoreInventoryWebAPI
+It is an API that returns and manipulates data from a database. I am modeling store inventory for a company with many stores and products distributed among them. In the future I hope to use a Front-End framework to utilize this API.
