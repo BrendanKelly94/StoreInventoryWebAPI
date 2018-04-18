@@ -1,0 +1,11 @@
+C:\Users\brend_000\Desktop\Module1\Module1\bin\Debug\netcoreapp2.0\Module1.deps.json
+C:\Users\brend_000\Desktop\Module1\Module1\bin\Debug\netcoreapp2.0\Module1.runtimeconfig.json
+C:\Users\brend_000\Desktop\Module1\Module1\bin\Debug\netcoreapp2.0\Module1.runtimeconfig.dev.json
+C:\Users\brend_000\Desktop\Module1\Module1\bin\Debug\netcoreapp2.0\Module1.dll
+C:\Users\brend_000\Desktop\Module1\Module1\obj\Debug\netcoreapp2.0\Module1.csprojResolveAssemblyReference.cache
+C:\Users\brend_000\Desktop\Module1\Module1\obj\Debug\netcoreapp2.0\Module1.csproj.CoreCompileInputs.cache
+C:\Users\brend_000\Desktop\Module1\Module1\obj\Debug\netcoreapp2.0\Module1.AssemblyInfoInputs.cache
+C:\Users\brend_000\Desktop\Module1\Module1\obj\Debug\netcoreapp2.0\Module1.AssemblyInfo.cs
+C:\Users\brend_000\Desktop\Module1\Module1\bin\Debug\netcoreapp2.0\Module1.pdb
+C:\Users\brend_000\Desktop\Module1\Module1\obj\Debug\netcoreapp2.0\Module1.dll
+C:\Users\brend_000\Desktop\Module1\Module1\obj\Debug\netcoreapp2.0\Module1.pdb
